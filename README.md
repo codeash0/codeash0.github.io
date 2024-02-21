@@ -2,14 +2,9 @@
 
 <html>
     <head>
-    <title>Codash</title>
+        <title>Codash</title>
     </head>
         <body>
-        
-        
-        <!----------------------------------------BEGINNING AND INTRO-------------------------------------->
-        
-        
         <div id="title">
             <h1> Codash </h1>
                 <h2> Coding with Ash</h2>
@@ -20,26 +15,18 @@
                     <li><a href="#social_media">Social Media</a></li>
                 </ul>
             </div>
-            
         </div>
             <div id="intro">
                 <h3> Currently learning HTML basics. </h3>
-                
                 <div id="biography">
-                
                     <h1>About</h1>
-                        <br> <a href="/aboutme">About me</a>
-                        
+                        <br> <a href="/aboutme">About me</a> 
                     <p> In order to <em>succeed</em> you must <span><strong> fail. </strong></span> 
-                        <br>Everything has a purpose. I'm here to learn everything and nothing all at once. Everything is about money, so here goes nothing.</p>
-                        
+                        <br>Everything has a purpose. I'm here to learn everything and nothing all at once. Everything is about money, so here goes nothing.</p> 
                     <br>
-                    
                     <p>Once I get the hang of things there is absolutely nothing left to stop me except myself. I just hope we never come to that point in my life because I already did and going back to bottom is not an option.
                 </div>
-                
                 <!------------------------------------------------PROJECTS------------------------------------------------->
-                
                 <br> 
                 <div id="projects">
                     <h1>Current Projects</h1>
@@ -68,7 +55,6 @@
                             <tr><!----CSS---->
                                 <td>CSS</td>
                                 <td>0%</td>
-                               
                             </tr>
                             <tr><!-----Java---->
                                 <td>Java</td>
@@ -82,7 +68,6 @@
                         </table>
                     </div>
                 </div>
-            
             <!----------------------------------------------------FOOTPAGE------------------------------------------------------>
             <div id="footpage">
              <div id="social_media">
