@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>Codash</title>
+        <link rel="icon" type ="image/x-icon" href="
     </head>
         <body>
         <div id="title">
