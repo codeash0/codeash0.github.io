@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Codash</title>
-        <link rel="icon" type ="image/x-icon" href="
+        <link rel="icon" type ="image/x-icon" href="https://www.apache.org/favicons/apple-touch-icon.png">
     </head>
         <body>
         <div id="title">
