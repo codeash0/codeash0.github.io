@@ -16,8 +16,17 @@
             </div>
         </div>
             <div id="intro">
-                <h3> Currently learning HTML basics. </h3>
+                 <div id="login">
+                    <form>
+                        <label for="username">Username</label>
+                        <input type="text" name="login" id="username">
+                        <br>
+                        <label for="password">Password</label>
+                        <input type="password" name="login2" id="password">
+                    </form>
+                </div>
                 <div id="biography">
+                <h3> Currently learning HTML basics. </h3>
                     <h1>About</h1>
                         <br> <a href="/aboutme">About me</a> 
                     <p> In order to <em>succeed</em> you must <span><strong> fail. </strong></span> 
@@ -68,7 +77,16 @@
                     </div>
                 </div>
                 <br>
-                <input type="text"> what is your name? </input>
+                <form>
+                    <label for="name">What is your name?</label>
+                    <br>
+                    <input type="text" name="first" id="name">
+                </form>
+                <form>
+                    <label for="age">What is your age?</label>
+                    <br>
+                    <input type="number" name="second" id="age">
+                </form>
             <!----------------------------------------------------FOOTPAGE------------------------------------------------------>
             <div id="footpage">
              <div id="social_media">
