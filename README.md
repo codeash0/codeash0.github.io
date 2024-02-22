@@ -5,6 +5,7 @@
     </head>
         <body>
         <div id="title">
+            <h1> Codash </h1>
                 <h2> Coding with Ash</h2>
             <div id="menu">
                 <ul>
