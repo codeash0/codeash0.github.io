@@ -67,6 +67,8 @@
                         </table>
                     </div>
                 </div>
+                <br>
+                <input type="text"> what is your name? </input>
             <!----------------------------------------------------FOOTPAGE------------------------------------------------------>
             <div id="footpage">
              <div id="social_media">
