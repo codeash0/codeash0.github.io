@@ -91,12 +91,15 @@
             <div id="footpage">
              <div id="social_media">
                 <h1> Social Media </h1>
-                    <br> <a href="https://www.instagram.com/cigarrettz_/" target="_blank"> .Instagram</a>
-                        <a href="https://www.tiktok.com/@cigarrettzz" target="_blank"> .Tiktok</a>
+                    <br> 
+                <a href="https://www.instagram.com/cigarrettz_/" target="_blank"> .Instagram</a>
+                <a href="https://www.tiktok.com/@cigarrettzz" target="_blank"> .Tiktok</a>
             </div> 
             <br>
-                <a href="https://en.wikipedia.org/wiki/The_Office_(American_TV_series)" target="_blank"/></a>
-                    <img src="https://i.pinimg.com/originals/fc/46/dc/fc46dc802745c81b1a4dfa762ef4157d.gif" alt="unavailable"/></div> 
+                <a href="https://en.wikipedia.org/wiki/The_Office_(American_TV_series)" target="_blank"/>
+                    <img src="https://i.pinimg.com/originals/fc/46/dc/fc46dc802745c81b1a4dfa762ef4157d.gif" alt="The Office Gif"/>
+                </a>
+            </div> 
             
         </body>
 </html>
